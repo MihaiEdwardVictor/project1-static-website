@@ -28,8 +28,12 @@ body{
     background-color: #BCB8B1;
 }
 header{
-    background-color: #463F3A;
+    
     position: relative;
+    background-image:url("resources/images/coffee-beans-with-props-making-coffee.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+    height: 90vh;
 }
 header>img{
     width: 100%;
